@@ -50,7 +50,7 @@
     "lucide-react": "^0.465.0",
     "mermaid": "^11.9.0",
     "mongodb": "^6.8.0",
-    "nanoid": "^5.1.5",
+    "nanoid": "^5.1.16",
     "next": "15.3.8",
     "posthog-js": "^1.260.1",
     "quill": "^2.0.3",
